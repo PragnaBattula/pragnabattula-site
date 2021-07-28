@@ -2,7 +2,7 @@
 
 Hey! welcome to my portofolio.
 
-Its coming tomorrow when i learn html and css with Tanay Pratap sir on Youtube.
+Its coming tomorrow when i learn html and css with Tanay Pratap sir.
 
 For now I know:
 
